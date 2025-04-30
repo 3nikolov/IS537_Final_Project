@@ -2,7 +2,7 @@
 This is the repository that contains my final project for IS 537, Theory &amp; Practice of Data Cleaning, at the iSchool at UIUC. It examines the data quality and cleaning of 2 publicly available network directories provided by 2 different nonprofit organizations focused on impact driven work. Beyond being a cleaning project, it also aims to answer the question, "What gaps and trends exist in career area interest and global representation across the 2 nonprofit professional networks focused on impact-driven work, and how does data quality impact these insights?"
 
 # Requirements
-This is a Python project, using Python 3.7 and utf-8 encoding. Originally made in PyCharm. Uses Jupyter notebooks, csv files, and html files.
+This is a Python project, using Python 3.7 and utf-8 encoding. Originally made in PyCharm 2023.2. Uses Jupyter notebooks, csv files, and html files.
 
 Packages used Throughout Project: 
 * import pandas as pd
