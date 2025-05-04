@@ -23,7 +23,7 @@ Open the notebook titled "Part_1_Import_Merge_Clean.ipynb". Before you run the w
 ## Step 3: Part_2_Research_Question.ipynb
 After you complete "Part_1_Import_Merge_Clean.ipynb", open the notebook titled "Part_2_Research_Question.ipynb". This notebook uses the cleaned dataset from Part 1, answers the research question posed, and summarizes the findings.
 ## Step 4: CFI & HIP Quality & Ethics.ipynb AND "Pre-Cleaning CFI Quality Report.html" + "Pre-Cleaning HIP Quality Report.html"
-After both Part_1 and Part_2 notebooks are complete and you have all the context that is needed, you can open the final parts of this project. Open "CFI & HIP Quality & Ethics.ipynb". Simultaneously, on your chosen web browser, open the html files titled "Pre-Cleaning CFI Quality Report.html" and "Pre-Cleaning HIP Quality Report.html". The html files are too big to view inside a codespace.
+After both Part_1 and Part_2 notebooks are complete and you have all the context that is needed, you can open the final parts of this project. Open "CFI & HIP Quality & Ethics.ipynb". Simultaneously, on your chosen web browser, open the html files titled "Pre-Cleaning CFI Quality Report.html" and "Pre-Cleaning HIP Quality Report.html". The html files are too big to view inside a codespace, or within Github.
 
 To open the html files in a browswer from PyCharm: 
 * right click on the html file
